@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 
 <title>Mary Toy's</title>
-<link rel="stylesheet" href="file:///C:/Users/DELL/Documents/Ana/mimenu.css">
+<link rel="stylesheet" href="css/mimenu.css">
 
 </head>
 		<body>
